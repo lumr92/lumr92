@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lumr92 you can call me Lucas 
 - 👀 I’m interested in will be a developer, I don't know which specialty I will follow yet, but I'll will find soon, my concern in the moment is only study
-- 🌱 I’m currently learning Ruby, MySQL, Python, Git and Linux...
+- 🌱 I’m currently learning MySQL, Python, Git and Linux...
 - 📫 How to reach me:
 <br>
 📫 lucasmenezes9251@gmail.com,
