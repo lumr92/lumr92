@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning Python, Git, Linux, Docker, Kubernetes... and in the future I will learn cloud technologies.
 - 📫 How to reach me:
 <br>
-📫 lucasmenezes9251@gmail.com,
+📫 lucasmenezes9251@gmail.com
 <br>
-👔 <a href="https://www.linkedin.com/in/lucas-de-menezes-rodrigues-12847a108/">Linkedin</a>,
-<br>
-📷 <a href="https://www.instagram.com/_lumr/">Instragram</a>
+👔 <a href="https://www.linkedin.com/in/lucas-de-menezes-rodrigues-12847a108/">Linkedin</a>
+
 
 <!---
 lumr92/lumr92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
