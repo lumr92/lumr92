@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lumr92 you can call me Lucas 
-- 👀 I’m interested in will be a developer, a DevOps developer.
+- 👀 I’m interested in will be, a DevOps engineer.
 - 🌱 I’m currently learning Python, Git, Linux, Docker, Kubernetes and AWS.
 - 📫 How to reach me:
 <br>
