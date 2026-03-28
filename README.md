@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lumr92 you can call me Lucas 
-- 👀 I’m interested in will be, a DevOps engineer.
-- 🌱 I’m currently learning Python, Git, Linux, Docker, Kubernetes and AWS.
+- 👀 I’m a SRE/DevOps engineer.
+- 🌱 I’m currently work as a SRE in Elven Works.
 - 📫 How to reach me:
 <br>
 📫 lucasmenezes9251@gmail.com
